@@ -13,7 +13,7 @@
 
 04. What are some of the benefits of the `Proxy` object that we are using in our structure for applications?
   
-  > A proxy object is beneficial because it can be used not only as a representation and reference for an actual object we are using but can also redefine object operations and properties.
+  > A proxy object is beneficial because it can be used not only as a representation and reference for an actual object we are using but can also redefine object operations and properties. 
 
 05. What the difference between a `class` and an instance of a `class`?
   
@@ -33,7 +33,7 @@
 
 09. What is the job of the `Service` in `MVC`?
   
-  > The service performs vital functions withins an application and is respsonsible for "business logic".
+  > The service performs vital functions withins an application and is responsible for "business logic".
 
 10. What is the job of the `Model` in `MVC`?
   
