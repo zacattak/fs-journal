@@ -9,7 +9,7 @@
 
 03. What does *REST* stand for, and in simple terms what does it mean??
 
-  > Rest stands for Representation State Transfer and they are a popular form of API. REST refers to an architecture that sets the rules for how an API works.
+  > Rest stands for Representation State Transfer and they are a popular form of API. REST refers to an architecture that sets the rules for how an API works and establishes standards of communication between computer systems. RESTful systems are stateless meaning that they separate the concerns of the client and server.
 
 04. What is a callback / higher order function?
 
@@ -17,7 +17,7 @@
 
 05. What is a `promise`? How do you capture an error from a `promise`?
 
-  > In javascript a promise is an object that occupies one of three states: pending, resolved, and rejected.
+  > In javascript a promise is an object that occupies one of three states: pending, resolved, and rejected. Since we can attach a method to a promise, we can use this method to indicate an error based on whether or not the promise gets fulfilled and effectively "capture" an error.
 
 06. Name three processes used to make requests over `HTTP`?
 
@@ -29,7 +29,7 @@
 
 08. What must you do in order to `await` a promise inside of a function?
 
-  > If a promise is passed to an 'await', it pauses the execution of the surrounding async function that it is within until the promise is resolved. 
+  > If a promise is passed to an 'await', it pauses the execution of the surrounding async function that it is within until the promise is resolved. In other words, you must either resolve or reject the promise before the function is called.
 
 09. What is the purpose of encapsulation in programming?
 
