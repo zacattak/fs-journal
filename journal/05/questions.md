@@ -33,7 +33,8 @@
 
 09. Demonstrate the pattern that is used to include a request query with the client's `HTTP` request providing the property `tag` and the value `winter`.
 
-  >const 
+  >const res = await axios.get('http://localhost:3000/test?tag=winter')
+  Not sure if I understood the question correctly, I referred to the reading section about query parameters and appending to the url.
 
 10. What is a ***virtual property***?
 
