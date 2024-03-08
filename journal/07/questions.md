@@ -10,7 +10,7 @@
 
 3. What are some of the advantages/uses of a `SPA` over a traditional one?
 
-  > Since a 'SPA' loads only a single page and renders the javascript code directly in the browser. As a result these types of websites generally have higher responsiveness and reactivity.
+  > A 'SPA' loads a single page and renders the javascript code directly in the browser. As a result these types of websites generally have higher responsiveness and reactivity.
 
 4. What does the `onMounted` method in Vue do?
 
