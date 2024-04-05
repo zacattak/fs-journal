@@ -50,7 +50,7 @@
   patient.*,
   FROM patient_doctors patient_doctor
   JOIN patients patient
-  ON doctor.patientId = patient.id
+  ON patient_doctor.patientId = patient.id
 
 
   ```
